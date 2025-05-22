@@ -1,0 +1,9 @@
+#include <aliases.h>
+#include <argp.h>
+#include <grp.h>
+#include <gshadow.h>
+#include <netdb.h>
+#include <pwd.h>
+#include <shadow.h>
+//#include <shadowio.h>
+#include <pam_appl.h>
